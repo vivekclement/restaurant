@@ -52,5 +52,10 @@
     "url-loader": "^0.5.7",
     "webpack": "^1.13.1",
     "whatwg-fetch": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0"
   }
 }
