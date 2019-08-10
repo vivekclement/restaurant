@@ -1,0 +1,4 @@
++ slate@0.31.8
+updated 1 package and audited 27920 packages in 7.281s
+found 13 vulnerabilities (3 low, 2 moderate, 8 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
