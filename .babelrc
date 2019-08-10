@@ -1,7 +1,8 @@
 {
-  "presets": ["es2015"],
-  "retainLines": true,
+  "presets": ["@babel/preset-env", "@babel/preset-react"],
   "plugins": [
+    "@babel/plugin-syntax-object-rest-spread",
+    "@babel/plugin-proposal-object-rest-spread",
     "transform-react-jsx",
     "syntax-object-rest-spread",
     "transform-object-rest-spread"
